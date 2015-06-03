@@ -5,12 +5,9 @@ session_start();
 <html lang="es">
 
 <head>
-    <title>Be Capitals | Env&iacute;o correcto</title>
+    <title>Be Capitals | Env&iacute;o correcto github</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
- 
-
     <link rel="stylesheet" href="./assets/css/normalize.css" />
     <link rel="stylesheet" href="./assets/js/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="./assets/js/fancyBox/jquery.fancybox.css" />
