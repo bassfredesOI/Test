@@ -1,0 +1,5 @@
+[28-May-2015 16:07:38 America/Santiago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/onintera/public_html/desarrollo2015/becapitals/admin/login.php on line 18
+[28-May-2015 16:08:24 America/Santiago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/onintera/public_html/desarrollo2015/becapitals/admin/login.php on line 18
+[28-May-2015 16:08:27 America/Santiago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/onintera/public_html/desarrollo2015/becapitals/admin/login.php on line 18
+[28-May-2015 16:08:43 America/Santiago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/onintera/public_html/desarrollo2015/becapitals/admin/login.php on line 20
+[28-May-2015 16:08:56 America/Santiago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/onintera/public_html/desarrollo2015/becapitals/admin/login.php on line 20
